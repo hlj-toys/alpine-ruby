@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:3.2
 MAINTAINER Beta CZ <hlj8080@gmail.com>
 
 # ruby 2.2.4-p0

@@ -3,7 +3,7 @@ alpine-ruby
 
 ###适合中国用户的最小Ruby语言镜像
 
-* 基于 [alpine:3.3](https://hub.docker.com/_/alpine/)
+* 基于 [alpine](https://hub.docker.com/_/alpine/)
 
 * RubyGrems 源更换为<https://ruby.taobao.org/>
 

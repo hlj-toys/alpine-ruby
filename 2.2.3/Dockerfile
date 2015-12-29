@@ -1,7 +1,6 @@
 FROM alpine:3.2
 MAINTAINER Beta CZ <hlj8080@gmail.com>
 
-# ruby 2.2.4-p0
 RUN apk --update add ca-certificates \
     ruby ruby-minitest ruby-irb \
     ruby-io-console \
